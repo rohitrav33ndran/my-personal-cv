@@ -1,3 +1,38 @@
 body {
-  background-color: blue;
+  margin: 0;
 }
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+img {
+  height: 500px;
+  width: 500px;
+}
+
+/*
+.topcontainer {
+  background-color: #F67280;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+  border: solid 10px;
+}
+
+.middlecontainer {
+  background-color: #C06C84;
+  width: 200px;
+  height: 200px;
+  border: solid 20px;
+  margin-left: 260px;
+}
+
+.bottomcontainer {
+  background-color: #6C5B7B;
+  width: 200px;
+  height: 200px;
+  border: solid 10px;
+  margin-left: 500px;
+}*/
