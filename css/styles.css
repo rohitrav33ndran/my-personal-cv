@@ -9,17 +9,23 @@ h1 {
   padding-top: 100px;
   color: #185ADB;
   font-family: 'Rubik', sans-serif;
-  font-size: 3em;
+  font-size: 3rem;
 }
 
 span {
   background-color: #FFC947;
 }
+h2 {
+  color: #0A1931;
+  font-family: 'Rubik', sans-serif;
+  font-size: 2rem;
+  display: block;
+}
 
 p {
   color: #0A1931;
   font-family: 'Rubik', sans-serif;
-  font-size: 1.25em;
+  font-size: 1.25rem;
   display: block;
   margin: 0 auto 0 auto;
 
@@ -46,7 +52,7 @@ img {
 .profile p {
   color: #0A1931;
   font-family: 'Rubik', sans-serif;
-  font-size: 1.25em;
+  font-size: 1.25rem;
   margin: 0 auto 0 auto;
   display: inline;
 }
@@ -57,7 +63,7 @@ img {
 
 .nav-container {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.1em;
+  font-size: 1.1rem;
 }
 
 ul {
@@ -86,7 +92,7 @@ li a {
 li a:hover {
   text-decoration: underline;
   text-decoration-color: #FFC947;
-  text-decoration-thickness: 0.3em;
+  text-decoration-thickness: 0.3sem;
 }
 
 
